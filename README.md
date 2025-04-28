@@ -1,6 +1,7 @@
 # face_recognition
 face detect ,face recognition, face cluster, face mask recognition
 
+联系方式：547691062@qq.com    微信:18781975483
 # 支持识别：
         1. 普通人脸识别
         2. 戴口罩人脸识别
@@ -10,7 +11,7 @@ face detect ,face recognition, face cluster, face mask recognition
       1. 线上数据40万人，2000万张图
       2. glint360，36万人，2000多万张图
       3. web42M， 200万人，3000万图
-联系方式：547691062@qq.com
+
 
 # 2.人脸预处理
         ----采用自研的图像处理算法对人脸进行 "中心矫正" 较小冗余信息，增加人脸纹理识别信息。
