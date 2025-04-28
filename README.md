@@ -28,5 +28,5 @@ face detect ,face recognition, face cluster, face mask recognition
         基于RK3399纯CPU识别，整体识别时间在200ms以内
         目前算法库已经移植到Android设备，支持Jni调用
 
-# 模型部署效果图：
+# 模型部署应用效果图：
 ![image](https://github.com/user-attachments/assets/8a3d0677-d48c-4bab-b193-808e1506f5c2)
